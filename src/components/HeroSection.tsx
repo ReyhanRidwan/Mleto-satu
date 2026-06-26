@@ -141,7 +141,7 @@ export default function HeroSection({ onOpenSurvey }: HeroSectionProps) {
               <div className="absolute inset-x-0 top-0 h-1 bg-gradient-to-r from-safety-orange to-transparent z-20" />
               
               <img
-                src="/src/assets/images/hero_banner_1782482666454.jpg"
+                src="/images/hero_banner_1782482666454.jpg"
                 alt="Bengkel Las Mleto Satu Surabaya Steel Construction Project"
                 className="w-full h-[320px] sm:h-[400px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

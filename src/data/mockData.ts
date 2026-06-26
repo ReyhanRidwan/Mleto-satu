@@ -6,28 +6,28 @@ export const SERVICES: Service[] = [
     title: 'Pagar Besi Minimalis',
     description: 'Pagar geser, pagar lipat, dan pagar tempa minimalis modern yang kokoh, anti karat, dan memperindah fasad bangunan Anda.',
     category: 'Pagar',
-    image: '/src/assets/images/pemasangan_pagar_1782482684484.jpg'
+    image: '/images/pemasangan_pagar_1782482684484.jpg'
   },
   {
     id: 'kanopi-besi',
     title: 'Kanopi Besi',
     description: 'Kanopi dengan rangka besi hollow tebal dipadukan dengan atap polycarbonate, tempered glass, spandek, maupun alderon berkualitas tinggi.',
     category: 'Kanopi',
-    image: '/src/assets/images/kanopi_besi_1782482784348.jpg'
+    image: '/images/kanopi_besi_1782482784348.jpg'
   },
   {
     id: 'tangga-besi',
     title: 'Tangga Besi',
     description: 'Tangga rebah, tangga putar, tangga layang, dan tangga darurat dengan material baja kokoh berlapis powder coating anti-slip.',
     category: 'Tangga',
-    image: '/src/assets/images/tangga_besi_1782482757784.jpg'
+    image: '/images/tangga_besi_1782482757784.jpg'
   },
   {
     id: 'railing-tangga',
     title: 'Railing Tangga',
     description: 'Railing pengaman tangga indoor dan outdoor dengan desain minimalis industrial yang memberikan keamanan ekstra dan estetika tinggi.',
     category: 'Railing',
-    image: '/src/assets/images/railing_balkon_1782482803962.jpg'
+    image: '/images/railing_balkon_1782482803962.jpg'
   },
   {
     id: 'balkon-besi',
@@ -58,7 +58,7 @@ export const SERVICES: Service[] = [
     title: 'Bracket TV Heavy-Duty',
     description: 'Instalasi bracket TV dinding dan bracket gantung custom untuk layar ukuran besar di perumahan, cafe, maupun ruang rapat.',
     category: 'Bracket TV',
-    image: '/src/assets/images/bracket_tv_1782482700916.jpg'
+    image: '/images/bracket_tv_1782482700916.jpg'
   },
   {
     id: 'rak-besi',
@@ -77,21 +77,21 @@ export const SERVICES: Service[] = [
     title: 'Rangka Besi Gudang',
     description: 'Fabrikasi dan instalasi konstruksi kolom baja WF/H-beam untuk pembangunan gudang skala kecil, menengah, hingga industri.',
     category: 'Struktur Baja',
-    image: '/src/assets/images/hero_banner_1782482666454.jpg'
+    image: '/images/hero_banner_1782482666454.jpg'
   },
   {
     id: 'pasang-videotron',
     title: 'Pemasangan Videotron',
     description: 'Pembuatan konstruksi bracket dan tiang penyangga layar LED Videotron indoor maupun outdoor berukuran besar.',
     category: 'Videotron',
-    image: '/src/assets/images/struktur_videotron_1782482719706.jpg'
+    image: '/images/struktur_videotron_1782482719706.jpg'
   },
   {
     id: 'billboard-led',
     title: 'Billboard LED Structure',
     description: 'Konstruksi billboard reklame jalanan berskala besar dengan perhitungan beban angin, pondasi beton cakar ayam, dan tiang baja kokoh.',
     category: 'Billboard',
-    image: '/src/assets/images/billboard_digital_1782482738433.jpg'
+    image: '/images/billboard_digital_1782482738433.jpg'
   },
   {
     id: 'welding-repair',
@@ -104,7 +104,7 @@ export const SERVICES: Service[] = [
     title: 'Fabrikasi Custom',
     description: 'Pengerjaan aneka kreasi besi sesuai gambar kerja (CAD/3D) untuk kebutuhan arsitektur khusus dan industrial modern.',
     category: 'Proyek Gedung',
-    image: '/src/assets/images/workshop_1782482821577.jpg'
+    image: '/images/workshop_1782482821577.jpg'
   }
 ];
 
@@ -165,63 +165,63 @@ export const PORTFOLIO: PortfolioItem[] = [
     title: 'Pagar Besi Minimalis Modern Perumahan Citraland',
     category: 'Pagar',
     description: 'Pengerjaan pagar besi lipat minimalis modern dengan finishing powder coating anti karat warna hitam doff.',
-    image: '/src/assets/images/pemasangan_pagar_1782482684484.jpg'
+    image: '/images/pemasangan_pagar_1782482684484.jpg'
   },
   {
     id: 'p2',
     title: 'Kanopi Kaca Tempered Kombinasi Rangka Besi',
     category: 'Kanopi',
     description: 'Desain kanopi modern berukuran lebar menggunakan besi hollow 5x10 tebal dengan atap kaca tempered laminate di Surabaya Timur.',
-    image: '/src/assets/images/kanopi_besi_1782482784348.jpg'
+    image: '/images/kanopi_besi_1782482784348.jpg'
   },
   {
     id: 'p3',
     title: 'Railing Tangga & Balkon Industrial Minimalis',
     category: 'Railing',
     description: 'Pemasangan railing pengaman tangga rumah tingkat minimalis di kawasan Graha Famili Surabaya Barat.',
-    image: '/src/assets/images/railing_balkon_1782482803962.jpg'
+    image: '/images/railing_balkon_1782482803962.jpg'
   },
   {
     id: 'p4',
     title: 'Tangga Besi Putar Kombinasi Pijakan Kayu Jati',
     category: 'Tangga',
     description: 'Instalasi tangga melingkar berbahan plat baja solid dipadukan dengan pijakan kayu jati solid yang di-coating natural.',
-    image: '/src/assets/images/tangga_besi_1782482757784.jpg'
+    image: '/images/tangga_besi_1782482757784.jpg'
   },
   {
     id: 'p5',
     title: 'Pemasangan Bracket TV Heavy-Duty Dinding Cafe',
     category: 'Bracket TV',
     description: 'Instalasi bracket TV gantung besi hollow custom berputar 360 derajat untuk 4 monitor TV 65-inci di Cafe Surabaya Pusat.',
-    image: '/src/assets/images/bracket_tv_1782482700916.jpg'
+    image: '/images/bracket_tv_1782482700916.jpg'
   },
   {
     id: 'p6',
     title: 'Rangka Baja Penyangga Layar LED Videotron Outdoor',
     category: 'Videotron',
-    description: 'Konstruksi scaffolding besi dan balok baja tebal penopang Videotron raksasa di perempatan jalan arteri Surabaya.',
-    image: '/src/assets/images/struktur_videotron_1782482719706.jpg'
+    description: 'Konstruksi scaffolding besi and balok baja tebal penopang Videotron raksasa di perempatan jalan arteri Surabaya.',
+    image: '/images/struktur_videotron_1782482719706.jpg'
   },
   {
     id: 'p7',
     title: 'Struktur Billboard Digital Raksasa Komersial',
     category: 'Billboard',
     description: 'Pekerjaan sipil dan fabrikasi baja pipa besar setinggi 12 meter untuk billboard digital komersial di pinggir jalan raya.',
-    image: '/src/assets/images/billboard_digital_1782482738433.jpg'
+    image: '/images/billboard_digital_1782482738433.jpg'
   },
   {
     id: 'p8',
     title: 'Konstruksi Baja WF Rangka Gudang Distribusi',
     category: 'Struktur Baja',
     description: 'Fabrikasi dan erection balok baja WF 250 untuk struktur gudang ekspedisi logistik dengan bentang lebar tanpa tiang tengah.',
-    image: '/src/assets/images/hero_banner_1782482666454.jpg'
+    image: '/images/hero_banner_1782482666454.jpg'
   },
   {
     id: 'p9',
     title: 'Fabrikasi Rak dan Meja Kerja Industrial Modern',
     category: 'Proyek Gedung',
     description: 'Desain dan produksi perabotan bertema industrial menggunakan kombinasi besi siku tebal dan panel kayu solid di workshop Mleto.',
-    image: '/src/assets/images/workshop_1782482821577.jpg'
+    image: '/images/workshop_1782482821577.jpg'
   }
 ];
 

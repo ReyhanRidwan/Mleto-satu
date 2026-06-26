@@ -69,7 +69,7 @@ export default function App() {
           {/* Background Image of CTA */}
           <div className="absolute inset-0 z-0">
             <img 
-              src="/src/assets/images/cta_background_1782482639889.jpg" 
+              src="/images/cta_background_1782482839889.jpg" 
               alt="Bengkel Las Surabaya Team Projects Background" 
               className="w-full h-full object-cover opacity-15"
               loading="lazy"
